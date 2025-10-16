@@ -1,0 +1,16 @@
+Hello, wanted to give you some information about how to use this program:
+
+The 'f(x).h' file is for you to introduce the function you want.
+At first, you have a parabola f(x) = x^2, but you can change it for any
+function you want, with the 'math.h' library you already have in c.
+You have to compile it again with the 'compile.bat'.
+
+When you start the program, some text will appear, follow instructions so
+it can run properly.
+
+When you see the graph, you can zoom out and zoom in with +, - keys, now
+have fun with this little console project!
+
+---------------
+
+I did this when I was younger, but I wanted to improve it and I like the final result.
